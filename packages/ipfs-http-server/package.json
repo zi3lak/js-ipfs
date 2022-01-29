@@ -38,7 +38,7 @@
     "err-code": "^2.0.3",
     "hapi-pino": "^8.3.0",
     "ipfs-core-utils": "^0.6.1",
-    "ipfs-http-gateway": "^0.2.1",
+    "ipfs-http-gateway": "^0.8.0",
     "ipfs-unixfs": "^2.0.3",
     "ipld-dag-pb": "^0.20.0",
     "it-all": "^1.0.4",
