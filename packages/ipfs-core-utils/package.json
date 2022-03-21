@@ -43,7 +43,7 @@
     "browser-readablestream-to-it": "^1.0.1",
     "cids": "^1.1.5",
     "err-code": "^2.0.3",
-    "ipfs-core-types": "^0.2.1",
+    "ipfs-core-types": "^0.4.0",
     "ipfs-utils": "^5.0.0",
     "it-all": "^1.0.4",
     "it-map": "^1.0.4",
