@@ -12,7 +12,7 @@
   "author": "Alan Shaw",
   "license": "MIT",
   "dependencies": {
-    "ipfs-http-client": "^48.2.2"
+    "ipfs-http-client": "^50.0.0"
   },
   "browserslist": [
     "last 2 versions and not dead and > 2%"
