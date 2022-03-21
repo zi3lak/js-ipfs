@@ -15,7 +15,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "ipfs-http-client": "^48.2.2"
+    "ipfs-http-client": "^50.0.0"
   },
   "devDependencies": {
     "ipfs": "^0.53.2",
