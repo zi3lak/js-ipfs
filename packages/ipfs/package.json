@@ -43,7 +43,7 @@
     "ipfs-core": "^0.4.2",
     "ipfs-repo": "^7.0.0",
     "semver": "^7.3.2",
-    "update-notifier": "^5.0.0"
+    "update-notifier": "^6.0.0"
   },
   "devDependencies": {
     "aegir": "^29.2.2",
