@@ -40,8 +40,8 @@
     "dep-check": "aegir dep-check -i aegir -i typescript -i rimraf"
   },
   "dependencies": {
-    "ipfs-grpc-client": "^0.1.2",
-    "ipfs-http-client": "^48.2.2",
+    "ipfs-grpc-client": "^0.13.1",
+    "ipfs-http-client": "^60.0.1",
     "merge-options": "^2.0.0"
   },
   "devDependencies": {
