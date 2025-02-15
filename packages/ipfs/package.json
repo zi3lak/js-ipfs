@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "debug": "^4.1.1",
-    "ipfs-cli": "^0.3.2",
+    "ipfs-cli": "^0.16.1",
     "ipfs-core": "^0.4.2",
     "ipfs-repo": "^7.0.0",
     "semver": "^7.3.2",
